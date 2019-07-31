@@ -7,11 +7,10 @@
 <body>
 
 	<img src="aa.png" alt="" width="100" height="100">
-	<h1>Name: Toan dap trai</h1>
 
 	<p>Hooby : play girls</p>
 	<?php 
-	echo "Hello kuuuu" ;
+	echo "Toan dap trai" ;
 
 	 ?>
 	
